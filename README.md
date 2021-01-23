@@ -2,7 +2,9 @@
 ### What is tha~?
 ArInTLT - Artificial Intelligence TerLeTzid.
 ### Discord
-https://discord.gg/FfAPYfM
+Main server https://discord.gg/FfAPYfM
+Dev server  https://discord.gg/mGHkQtg
+### Contact
 suicidalThink.#1119
 Jau.#1119
 Maple#8761
