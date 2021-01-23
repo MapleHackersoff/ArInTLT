@@ -21,3 +21,5 @@ Open python file via any editor and change disk to ur own
 Scanare in scenare.scn file.
 ### How to create own translate
 Just use Google Translator and edit scenare.scn file. Default lang - Eng.
+### Preview vid
+Processing
