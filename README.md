@@ -4,6 +4,7 @@ ArInTLT - Artificial Intelligence TerLeTzid.
 ### Discord
 Main server https://discord.gg/FfAPYfM
 Dev server  https://discord.gg/mGHkQtg
+WorkShop server  https://discord.gg/DnZD7xN4Zd
 ### Contact
 suicidalThink.#1119
 Jau.#1119
